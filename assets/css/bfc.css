@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css2?family=Aleo:wght@300;400;500&display=swap);
+* {
+	font-family: "Aleo", system-ui !important;
+}
+
+.text-color {
+	color: #702f01 !important;
+}
+
+a,
+.text-normal-color {
+	color: #fb9a1a;
+}
+
+.bg-warning, .btn-warning {
+	background-color: #fe9402 !important;
+}
+
+.bg-opaque-primary {
+	background-color: #fb9a1a2e !important;
+}
