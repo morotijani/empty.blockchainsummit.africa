@@ -47,7 +47,7 @@
 	date_default_timezone_set("Africa/Accra");
 
 
-	require_once($_SERVER['DOCUMENT_ROOT'].'/bfc/config.php');
+	require_once($_SERVER['DOCUMENT_ROOT'].'/empty.blockchainsummit.africa/config.php');
  	require_once(BASEURL.'helpers/helpers.php');
 
 

@@ -33,7 +33,7 @@ include ("connection/conn.php");
             <div class="row justify-content-center my-auto">
                 <div class="col-lg-8 col-xl-6">
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start text-start pb-2 pt-lg-2 pb-xl-0 pt-xl-5 mt-xxl-5">
-                        <span class="fs-sm"><span class="fw-semibold">300+</span> attendees are already with us</span>
+                        <span class="fs-sm"><span class="text-secondary fw-semibold">300+</span> attendees are already with us</span>
                     </div>
                     <h1 class="display-1 mb-1"><?= ucwords($head); ?></h1>
                 </div>

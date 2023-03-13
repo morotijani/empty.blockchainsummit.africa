@@ -1,8 +1,8 @@
 <?php
 
-	define('BASEURL', $_SERVER['DOCUMENT_ROOT'].'/bfc/');
+	define('BASEURL', $_SERVER['DOCUMENT_ROOT'].'/empty.blockchainsummit.africa/');
 	
-	define('PROOT', '/bfc/');
+	define('PROOT', '/empty.blockchainsummit.africa/');
 
 
 	define('SMS_API_KEY', '03fc14c0b83a26d000193e427cff93');
