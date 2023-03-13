@@ -49,7 +49,7 @@ include ("connection/conn.php");
             <div class="row justify-content-center mb-6">
                 <div class="col-lg-8 text-center">
                     <span class="badge bg-opaque-primary text-secondary mb-2 rounded-pill">Theme</span>
-                    <h2 class="fw-bold"><span class="d-lg-block">Cure for disempowered economies.</h2>
+                    <h1 class="fw-bold"><span class="d-lg-block">Solutions For Disempowered Economies.</h1>
                     <div class="row mb-8">
                         <div class="col">
                             <hr>
@@ -82,12 +82,22 @@ include ("connection/conn.php");
                         </div>
                         <div class="col-lg-7 p-5">
                             <div class="d-flex align-items-end">
-                                <h5 class="fs-1 mb-0 me-2 lh-1 text-secondary fw-bold">ENTREPENEURS</h5>
+                                <h5 class="fs-1 mb-0 me-2 lh-1 text-secondary fw-bold">ENTREPRENEURS</h5>
                             </div>
                         </div>
                         <div class="col-lg-5 p-5">
                             <div class="d-flex align-items-end">
-                                <h5 class="fs-1 mb-0 me-2 lh-1 text-dark fw-bold">EDUCATORS</h5>
+                                <h5 class="fs-1 mb-0 me-2 lh-1 text-dark fw-bold">EVANGELISTS</h5>
+                            </div>
+                        </div>
+                        <div class="col-lg-7 p-5">
+                            <div class="d-flex align-items-end">
+                                <h5 class="fs-1 mb-0 me-2 lh-1 text-primary fw-bold">BANKERS</h5>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 p-5">
+                            <div class="d-flex align-items-end">
+                                <h5 class="fs-1 mb-0 me-2 lh-1 text-warning fw-bold">NATIONS</h5>
                             </div>
                         </div>
                     </div>
@@ -95,8 +105,6 @@ include ("connection/conn.php");
             </div>
         </div>
     </section>
-
-    <hr>
 
     <!-- cta -->
     <section class="py-15 py-xl-20">
@@ -121,14 +129,24 @@ include ("connection/conn.php");
         </div>
     </section>
 
-    <!-- organizers -->
+       <!-- organizers -->
     <section class="bg-primary mx-xl-3 py-15 py-xl-20 inverted overflow-hidden">
         <div class="container level-1">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-6 text-center">
                     <h2 class="mb-5">Organizers</h2>
-                    <img src="assets/media/organizers/bcfa-logo-sm.png" width="100px" alt="">
-                    <img src="assets/media/logo/Bitcoin-Freedom-2023.png" width="500px" alt="">
+                    <div class="row">
+                        <div class="col-sm">
+                            <a href="https://blockchainfoundationafrica.com">
+                                <img src="assets/media/organizers/bcfa-long-logo.jpg" class="img-fluid" alt="">
+                            </a>
+                        </div>
+                        <div class="col-sm">
+                            <a href="https://satoshicentre.tech">
+                                <img src="assets/media/organizers/satoshi-center-logo.png" class="img-fluid" alt="">
+                            </a>
+                        </div>
+                    </div>
                     <div class="grouped-inputs p-1 border rounded-pill mb-2">
                         <div class="row g-1">
                             <div class="col-lg-9">
@@ -143,7 +161,7 @@ include ("connection/conn.php");
                 </div>
             </div>
         </div>
-        <figure class="background background-dimm background-parallax" style="background-image: url('./assets/media/event-12.png')" data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(20%);"></figure>
+        <figure class="background background-dimm background-parallax" style="background-image: url('./assets/media/bg-11.jpg')" data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(20%);"></figure>
     </section>
 
     <section class="py-15 py-xl-20 bg-black inverted">
@@ -159,7 +177,7 @@ include ("connection/conn.php");
                             </h2>
                             <div id="collapse-1-1" class="accordion-collapse collapse" aria-labelledby="heading-1-1" data-bs-parent="#accordion-1">
                                 <div class="accordion-body">
-                                    <p class="text-secondary">Use this "<a href="<?= PROOT; ?>become-a-speaker" class="text-warning">link</a>" to apply as a speaker by filling in the form details.</p>
+                                    <p class="text-secondary">Use this "<a href="<?= PROOT; ?>become-a-speaker" class="text-primary">link</a>" to apply as a speaker by filling in the form details.</p>
                                 </div>
                             </div>
                         </div>
@@ -172,60 +190,62 @@ include ("connection/conn.php");
                             <div id="collapse-1-2" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">
                                 <div class="accordion-body">
                                     <p class="text-secondary">
-                                        To join the sponser list you will need to send use an email through <a href="mailto:sponsor@bitfreesummit.africa" class="text-warning">sponsor@bitfreesummit.africa</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header" id="heading-1-2">
-                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-2" aria-expanded="false" aria-controls="collapse-1-2">
-                                    How do i buy ticket?
-                                </button>
-                            </h2>
-                            <div id="collapse-1-2" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">
-                                <div class="accordion-body">
-                                    <p class="text-secondary">
-                                        Tickets are only available when prices are being set, and from there you choose between Fiat or Crypto purchase.
+                                        To join the sponser list you will need to send use an email through <a href="mailto:sponsor@blockchainsummit.africa" class="text-primary">sponsor@blockchainsummit.africa</a>
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
                             <h2 class="accordion-header" id="heading-1-3">
-                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-3">
-                                    How do i buy ticket with FIAT?
+                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-3" aria-expanded="false" aria-controls="collapse-1-2">
+                                    How do i buy a ticket?
                                 </button>
                             </h2>
                             <div id="collapse-1-3" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">
                                 <div class="accordion-body">
                                     <p class="text-secondary">
-                                        To buy with Fiat, you will have to navigate to the price section and pick the category of your choice and hit on "Buy with Fiat" button. Provide your email and the number of tickets you want to purchase and proceed with payment.
+                                        <!-- Tickets are only available when prices are being set, and from there you choose between Fiat or Crypto purchase. -->
+                                        Tickets are only available when prices are being set.
                                     </p>
                                 </div>
                             </div>
                         </div>
+                        <!--<div class="accordion-item">-->
+                        <!--    <h2 class="accordion-header" id="heading-1-4">-->
+                        <!--        <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-2">-->
+                        <!--            How do i buy ticket with FIAT?-->
+                        <!--        </button>-->
+                        <!--    </h2>-->
+                        <!--    <div id="collapse-1-4" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">-->
+                        <!--        <div class="accordion-body">-->
+                        <!--            <p class="text-secondary">-->
+                        <!--                To buy with Fiat, you will have to navigate to the price section and pick the category of your choice and hit on "Buy with Fiat" button. Provide your email and the number of tickets you want to purchase and proceed with payment.-->
+                        <!--            </p>-->
+                        <!--        </div>-->
+                        <!--    </div>-->
+                        <!--</div>-->
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="heading-1-4">
-                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-4" aria-expanded="false" aria-controls="collapse-1-4">
+                            <h2 class="accordion-header" id="heading-1-5">
+                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-5" aria-expanded="false" aria-controls="collapse-1-2">
                                     How do i buy ticket with Crypto?
                                 </button>
                             </h2>
-                            <div id="collapse-1-4" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">
+                            <div id="collapse-1-5" class="accordion-collapse collapse" aria-labelledby="heading-1-2" data-bs-parent="#accordion-1">
                                 <div class="accordion-body">
                                     <p class="text-secondary">
-                                        To buy with Crypto, you will have to navigate to the price section and pick the category of your choice and hit on "Buy with Crypto" button. Provide your email and the number of tickets you want to purchase and proceed with payment. NB: We accept only Bitcoin (BTC).
+                                        To buy with Crypto, you will have to navigate to the price section and pick the category of your choice and hit on "Buy with Crypto" button. Provide your email and the number of tickets you want to purchase and proceed with payment.
+                                        <!--NB: We accept only Bitcoin (BTC).-->
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="heading-1-6">
-                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-6" aria-expanded="false" aria-controls="collapse-1-6">
+                            <h2 class="accordion-header" id="heading-1-7">
+                                <button class="accordion-button fs-4 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-1-7" aria-expanded="false" aria-controls="collapse-1-4">
                                     Do I get free updates?
                                 </button>
                             </h2>
-                            <div id="collapse-1-6" class="accordion-collapse collapse" aria-labelledby="heading-1-6" data-bs-parent="#accordion-1">
+                            <div id="collapse-1-7" class="accordion-collapse collapse" aria-labelledby="heading-1-4" data-bs-parent="#accordion-1">
                                 <div class="accordion-body">
                                     <p class="text-secondary">
                                         <span class="fw-bold text-white">Yes.</span> Everyone can take advantage of lifetime updates by subscribing to our daily updates.
@@ -241,5 +261,6 @@ include ("connection/conn.php");
             </div>
         </div>
     </section>
+    
 
 <?php include ('inc/foot.php'); ?>
