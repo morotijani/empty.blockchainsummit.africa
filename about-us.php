@@ -130,7 +130,7 @@ include ('inc/head.php');
         </section>
 
 
-        <!-- team -->
+       <!-- team -->
         <section class="py-15 py-xl-20 bg-light overflow-hidden">
             <div class="container">
                 <div class="row mb-10">
@@ -140,53 +140,100 @@ include ('inc/head.php');
                 </div>
                 <div class="row g-3 g-xl-5">
                     <div class="col-md-6 col-lg-4">
+                        <div class="equal-1-1 mb-2">
+                            <figure class="background" style="background-image: url('./assets/media/team/team-2.jpg'); background-position: unset;"></figure>
+                        </div>
+                        <h4 class="fs-5 mb-0">Alakanani Itireleng</h4>
+                        <span class="text-secondary">Founder . Satoshi Centre</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://twitter.com/bitcoinlady" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                            <a href="https://www.facebook.com/motherPkay" target="_blank" class="text-primary"><i class="bi bi-facebook fs-5"></i></a>&nbsp;
+                            <a href="https://bw.linkedin.com/in/bitcoinlady" target="_blank" class="text-info"><i class="bi bi-linkedin fs-5"></i></a>&nbsp;
+                            <a href="mailto:alakanani@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                        </span>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
+                        <div class="equal-1-1 equal-3-4 mb-2">
+                            <figure class="background" style="background-image: url('./assets/media/team/team-1.jpg'); background-position: unset;"></figure>
+                        </div>
+                        <h4 class="fs-5 mb-0">Frank Deya</h4>
+                        <span class="text-secondary">CEO . Satoshi Centre</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://twitter.com/FrankDeya" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                            <a href="https://www.linkedin.com/in/frank-deya-088a2357" target="_blank" class="text-info"><i class="bi bi-linkedin fs-5"></i></a>&nbsp;
+                            <a href="mailto:frank@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                            </span>
+                    </div>
+                    <div class="col-md-6 col-lg-4">
                         <div class="card">
                             <div class="equal-1-1 mb-2">
-                                <figure class="background" style="background-image: url('./assets/media/team/boss.jpg')"></figure>
+                                <figure class="background" style="background-image: url('./assets/media/team/team-4.jpg'); background-position: unset;"></figure>
                             </div>
-                            <h4 class="card-title">Mr. Philip</h4>
-                            <span class="text-secondary">Senior Designer at Google</span>
+                            <h4 class="card-title">Philip Agyei Asare</h4>
+                            <span class="text-secondary">Founder . Blockchain Foundation Africa</span>
+                            <br>
+                            <span class="text-secondary">
+                                <a href="https://twitter.com/btc4revolution" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                                <a href="mailto:philip@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>&nbsp;
+                                <a href="https://web.facebook.com/pagyeiasare" target="_blank" class="text-primary"><i class="bi bi-facebook fs-5"></i></a>&nbsp;
+                                <a href="https://www.linkedin.com/in/philipagyeiasare/" target="_blank" class="text-info"><i class="bi bi-linkedin fs-5"></i></a>&nbsp;
+                            </span>
                         </div>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
+                        <div class="equal-1-1 equal-3-4 mb-2">
+                            <figure class="background" style="background-image: url('./assets/media/team/team-6.jpg');"></figure>
+                        </div>
+                        <h4 class="fs-5 mb-0">Akwasi Gyebi</h4>
+                        <span class="text-secondary">Senior Manager . Blockchain Foundation Africa</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://twitter.com/cwesygyebi" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                            <a href="mailto:gyebi@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                        </span>
+                    </div>
+                    <div class="col-md-6 col-lg-3">
                         <div class="equal-1-1 mb-2">
-                            <figure class="background" style="background-image: url('./assets/media/team/boss.jpg')"></figure>
+                            <figure class="background" style="background-image: url('./assets/media/team/team-3.jpg'); background-position: unset;"></figure>
                         </div>
-                        <h4 class="fs-5 mb-0">Madam Ala</h4>
-                        <span class="text-secondary">Senior Designer at Google</span>
+                        <h4 class="fs-5 mb-0">Tuelo Baikgatlhi</h4>
+                        <span class="text-secondary">Founder . Aiderapp.app</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://twitter.com/TBaikgatlhi" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                            <a href="https://www.facebook.com/tuelo.mogorosi" target="_blank" class="text-primary"><i class="bi bi-facebook fs-5"></i></a>&nbsp;
+                            <a href="mailto:tuelo@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                            </span>
                     </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="equal-1-1 equal-3-4 mb-2">
-                            <figure class="background" style="background-image: url('./assets/media/team/boss.jpg')"></figure>
+                            <figure class="background" style="background-image: url('./assets/media/team/team-7.jpg');"></figure>
                         </div>
-                        <h4 class="fs-5 mb-0">Mr. Pekay</h4>
-                        <span class="text-secondary">Senior Designer at Google</span>
+                        <h4 class="fs-5 mb-0">Nana Kwaku Osei Bonsu</h4>
+                        <span class="text-secondary">Operations Manager . BCFA</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://facebook.com/nanaosei.bonsu.52" target="_blank" class="text-primary"><i class="bi bi-facebook fs-5"></i></a>&nbsp;
+                            <a href="mailto:bonsu@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                        </span>
                     </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="equal-1-1 mb-2">
-                            <figure class="background" style="background-image: url('./assets/media/team/boss.jpg')"></figure>
-                        </div>
-                        <h4 class="fs-5 mb-0">Michael Doe</h4>
-                        <span class="text-secondary">Senior Designer at Google</span>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-3">
                         <div class="equal-1-1 equal-3-4 mb-2">
-                            <figure class="background" style="background-image: url('./assets/media/team/boss.jpg')"></figure>
-                        </div>
-                        <h4 class="fs-5 mb-0">Michael Doe</h4>
-                        <span class="text-secondary">Senior Designer at Google</span>
-                    </div>
-                    <div class="col-md-6 col-lg-4">
-                        <div class="equal-1-1 equal-3-4 mb-2">
-                            <figure class="background" style="background-image: url('./assets/media/team/tj.png')"></figure>
+                            <figure class="background" style="background-image: url('./assets/media/team/team-5.png');"></figure>
                         </div>
                         <h4 class="fs-5 mb-0">Moro Tijani</h4>
-                        <span class="text-secondary">Senior Designer at Google</span>
+                        <span class="text-secondary">Developer . BCFA/Inqoins</span>
+                        <br>
+                        <span class="text-secondary">
+                            <a href="https://twitter.com/MoroTijani2" target="_blank" class="text-info"><i class="bi bi-twitter fs-5"></i></a>&nbsp;
+                            <a href="mailto:tijani@blockchainsummit.africa" class="text-secondary"><i class="bi bi-envelope-fill fs-5"></i></a>
+                        </span>
                     </div>
                 </div>
             </div>
         </section>
-
 
         <!-- instagram -->
         <section class="py-15 py-xl-20">
