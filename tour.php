@@ -4,7 +4,7 @@ include ("connection/conn.php");
 
 $title = 'Home';
 $nav_color = 'navbar-light';
-$btn_outline_light = 'white';
+$btn_outline_light = 'primary';
 
 include ('inc/head.php');
 

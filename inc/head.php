@@ -51,16 +51,22 @@
                         <a class="nav-link" href="index" role="button">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="speakers" role="button">Be a Speaker</a>
+                        <a class="nav-link" href="speaker" role="button">Speakers</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="be-a-speaker" role="button">Be a Speaker</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about-us" role="button">About Us</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="exhibit" role="button">Exhibit</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="tour" role="button">Tour</a>
                     </li>
                     <li class="nav-item d-lg-none">
-                        <a href="ticket" class="nav-link text-warning">Be our Sponsor</a>
+                        <a href="ticket" class="nav-link text-warning">Get Tickets</a>
                     </li>
                 </ul>
             </div>

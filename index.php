@@ -10,8 +10,8 @@ include ("connection/conn.php");
 
     // TICKETS
     $ticketQuery = "
-        SELECT * FROM bfc_ticket
-        ORDER BY bfc_ticket.ticket_price ASC";
+        SELECT * FROM bsa_ticket
+        ORDER BY bsa_ticket.ticket_price ASC";
     $statement = $conn->prepare($ticketQuery);
     $statement->execute();
     $count_ticket = $statement->rowCount();
@@ -19,7 +19,7 @@ include ("connection/conn.php");
 
     // SPEAKERS
     $speakerQuery = "
-        SELECT * FROM bfs_speaker
+        SELECT * FROM bsa_speaker
         ORDER BY speaker_name ASC";
     $statement = $conn->prepare($speakerQuery);
     $statement->execute();
