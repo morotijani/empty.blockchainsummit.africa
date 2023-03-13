@@ -102,7 +102,10 @@ include ('inc/head.php');
                 <div class="row mb-10">
                     <div class="col-lg-10">
                         <span class="eyebrow text-normal-color mb-4">About Us</span>
-                        <h3 class="fs-4">We are Africans from various parts of the continent who believe in the Bitcoin revolution and are building a movement to bolster its Adoption.</h3>
+                        <h3 class="fs-4">
+                            We think that blockchain technology, digital assets, and economic freedom are ushering in a new era of wealth, economic freedom, and    financial inclusion. 
+                            <br>
+                            We support the Blockchain revolution and we are establishing a movement to promote its use out of love for our African Continent and the nations that make it up. With the help of Bitcoin, we give a Cure for Disempowered Economies.</h3>
                     </div>
                 </div>
                 <div class="row">

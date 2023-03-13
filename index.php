@@ -33,7 +33,7 @@ include ("connection/conn.php");
             <div class="row justify-content-center my-auto">
                 <div class="col-lg-8 col-xl-6">
                     <div class="d-flex align-items-center justify-content-center justify-content-lg-start text-start pb-2 pt-lg-2 pb-xl-0 pt-xl-5 mt-xxl-5">
-                        <span class="fs-sm"><span class="text-color fw-semibold">400+</span> attendees are already with us</span>
+                        <span class="fs-sm"><span class="fw-semibold">300+</span> attendees are already with us</span>
                     </div>
                     <h1 class="display-1 mb-1"><?= ucwords($head); ?></h1>
                 </div>
@@ -110,7 +110,7 @@ include ("connection/conn.php");
                     </a>
                 </div>
                 <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                    <a href="" class="card card-arrow bg-warning inverted overflow-hidden">
+                    <a href="" class="card card-arrow bg-primary inverted overflow-hidden">
                         <div class="card-body">
                             <h4 class="card-title fw-light fs-4">We'd love to <span class="fw-bold">get in touch</span> with you as a sponsor.</h4>
                         </div>
@@ -122,7 +122,7 @@ include ("connection/conn.php");
     </section>
 
     <!-- organizers -->
-    <section class="bg-orange mx-xl-3 py-15 py-xl-20 inverted overflow-hidden">
+    <section class="bg-primary mx-xl-3 py-15 py-xl-20 inverted overflow-hidden">
         <div class="container level-1">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-6 text-center">
