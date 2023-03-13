@@ -28,7 +28,7 @@ include ("connection/conn.php");
 ?>
 
   
-    <section class="cover overflow-hidden bg-warning inverted">
+    <section class="cover overflow-hidden bg-primary inverted">
         <div class="d-flex flex-column min-vh-100 py-20 container foreground">
             <div class="row justify-content-center my-auto">
                 <div class="col-lg-8 col-xl-6">
