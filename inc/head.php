@@ -51,7 +51,10 @@
                         <a class="nav-link" href="index" role="button">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="be-a-speaker" role="button">Be a Speaker</a>
+                        <a class="nav-link" href="sponsors" role="button">Sponsors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="partners" role="button">Partners</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about-us" role="button">About Us</a>

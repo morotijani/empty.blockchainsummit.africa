@@ -49,7 +49,7 @@ include ("connection/conn.php");
             <div class="row justify-content-center mb-6">
                 <div class="col-lg-8 text-center">
                     <span class="badge bg-opaque-primary text-secondary mb-2 rounded-pill">Theme</span>
-                    <h1 class="fw-bold"><span class="d-lg-block">Solutions For Disempowered Economies.</h1>
+                    <h1 class="fw-bold"><span class="d-lg-block">Solutions For Disempowered Economies.</h1>
                     <div class="row mb-8">
                         <div class="col">
                             <hr>
@@ -164,6 +164,7 @@ include ("connection/conn.php");
         <figure class="background background-dimm background-parallax" style="background-image: url('./assets/media/bg-11.jpg')" data-bottom-top="transform: translateY(0%);" data-top-bottom="transform: translateY(20%);"></figure>
     </section>
 
+    <!-- FAQ -->
     <section class="py-15 py-xl-20 bg-black inverted">
         <div class="container">
             <div class="row">
